@@ -434,6 +434,11 @@ hash = "afc98470b699a933cbdcc7d95822455596d91864ef14ec21a48f4fdd51d5eb03"
 metafile = true
 
 [[files]]
+file = "mods/framework.pw.toml"
+hash = "00ad8cbf63ae196b67cf52108fe9bda6822a28cd6b0f59370ec0334b0256444e"
+metafile = true
+
+[[files]]
 file = "mods/gym-badges.pw.toml"
 hash = "c333b507d780cba7c54569401acbf9e4e02c7c0a78fb645379b7a48773486427"
 metafile = true
