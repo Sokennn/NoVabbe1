@@ -1,0 +1,16 @@
+name = "No Vabbe"
+author = "Soken"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a20c36f7e3cfa8b8937362e6108e7f910d47cea318c623452e13e5cae3649cfc"
+
+[versions]
+fabric = "0.15.11"
+minecraft = "1.20.1"
+
+[options]
+acceptable-game-versions = ["1.19"]

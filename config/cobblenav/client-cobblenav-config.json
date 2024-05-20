@@ -1,0 +1,10 @@
+{
+  "mainScreenWidget": "PARTY",
+  "percentageDisplayType": "PERCENT_ONLY",
+  "bucketWisePercentageCalculation": false,
+  "reverseSortingButtonCooldown": 100,
+  "scrollSize": 20,
+  "notifyIfPokemonIsNotFound": true,
+  "trackArrowVerticalOffset": 70,
+  "partyWidgetAdjustments": {}
+}

@@ -1,0 +1,13 @@
+name = "Cobblemon: Cobble it"
+filename = "Cobbleit-0.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/HzO6N0jB/versions/ziQ6zhCu/Cobbleit-0.0.1.jar"
+hash-format = "sha1"
+hash = "197ddbed3417a8afe5644a8dc371eb53f67b78c3"
+
+[update]
+[update.modrinth]
+mod-id = "HzO6N0jB"
+version = "ziQ6zhCu"
